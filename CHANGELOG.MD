@@ -1,3 +1,25 @@
+## 6.8.7
+### Fix
+- Multiline support for rating labels
+- Navigation bar appearance for xcode-ios15
+- Alignment for picker elements on ipad.
+
+### Update
+- Build with Xcode 12.5.1 ( for supporting CI/CD process which doesn't migrate to xcode 13)
+- Improvements on telemetry data
+- SPM support for xcode 11-13.
+## 6.8.6
+### Update
+- build with Xcode 12.5.1 ( for supporting CI/CD process which doesn't migrate to xcode 13)
+- temporarily removed xcode 13.0 from cocoapods but can be used from git podspec.
+## 6.8.5
+### Fix
+- screenshot annotation issue for flutter-ios
+- show active campaigns only
+
+ ### Update
+- build with Xcode 13.0
+- support accessbility larger texts for campaign banner cta buttons
 ## 6.8.4
 ### Fix
 - Navigation bar for ios15
