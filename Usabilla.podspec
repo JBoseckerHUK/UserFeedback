@@ -1,4 +1,4 @@
-version = "6.9.0-Xcode-13.1"
+version = "6.9.0"
 
 Pod::Spec.new do |s|
 
